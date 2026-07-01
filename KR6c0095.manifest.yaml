@@ -1,0 +1,92 @@
+canonical_identifier: bkk:krp/KR6c0095/v1
+canonical_location: https://kanripo.org/bkk/KR6c0095/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛經訂義
+  identifiers:
+    alt_id:
+    - X25n0507
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X25/X25n0507.xml
+    old_id: X25n0507
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0095_000.yaml, hash: 'sha256:ce1bc688a7f02808d77ac5661e5bbbc5020ef74898ce00f5524df0340a509b35'}
+  - {seq: 1, filename: KR6c0095_001.yaml, hash: 'sha256:69f7f842f86f0cc53541f2de3e8a6b7d88e4097145d8d7352abb15a993ade81f'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6c0095_001.markers.yaml, hash: 'sha256:d486352d9906512181f4fbddf28bf3afa7c2ff6cbceeae41196da148ae75001e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6c0095_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 3123
+  label: 金剛經訂義
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0095_X_001-mulu-1
+    span:
+    - body
+    - 4
+    - 4
+  label: 其一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0095_X_001-mulu-2
+    span:
+    - body
+    - 630
+    - 630
+  label: 其二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0095_X_001-mulu-3
+    span:
+    - body
+    - 1447
+    - 1447
+  label: 其三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0095_X_001-mulu-4
+    span:
+    - body
+    - 2018
+    - 2018
+  label: 其四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0095_X_001-mulu-5
+    span:
+    - body
+    - 2457
+    - 2457
+  label: 其五
+  type: mulu
+  level: 1
+hash: sha256:78cabf946b6e1838646869be2ceba42c738530f77a1d38eae126c25f305a0f2d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6c0095/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛經訂義
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X25/X25n0507.xml
+    old_id: X25n0507
+hash: sha256:ce1bc688a7f02808d77ac5661e5bbbc5020ef74898ce00f5524df0340a509b35
